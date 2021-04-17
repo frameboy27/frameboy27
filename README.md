@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frameboy27
-- 👀 I’m interested in Competetive Programming
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Web-D and Frameworks
 - 📫 Reach me at  vishwajit27051999@gmail.com
 
